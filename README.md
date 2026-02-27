@@ -2,7 +2,7 @@
 
 ## Project context
 This project was developed as part of the **Application Designer & Developer (React-oriented)** training program by OpenClassrooms.  
-It is the fifth JavaScript front-end project in the curriculum and focuses on building an accessible and dynamic recipe search interface using pure JavaScript, consuming a local API.
+It'is a JavaScript front-end project in the curriculum and focuses on building an accessible and dynamic recipe search interface using pure JavaScript, consuming a local API.
 
 The goal was to build a user-friendly recipe browsing experience with search, filters, and accessibility compliance.
 
